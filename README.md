@@ -57,22 +57,10 @@ LiFi-PC-Communication/
 - Developed the initial Arduino transmitter code.
 - Started implementing the Python-based file-sharing application.
 - Established serial communication between the computer and Arduino.
-- Working on integrating the transmitter and receiver for duplex communication.
+- Integrated the transmitter and receiver for duplex communication.
 
 ## Future Work
 
-- Complete the bidirectional communication implementation.
 - Improve the transmission speed and reliability.
-- Test file transfer with different file sizes.
 - Measure the effective data rate and bit error rate.
 - Improve the receiver circuit and signal detection.
-
-## Team
-
-Developed by a five-member team under the GitHub organization:
-
-[Duplex-communication-using-LiFi](https://github.com/Duplex-communication-using-LiFi)
-
-## Project Status
-
-Under Development
